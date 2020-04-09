@@ -1,17 +1,15 @@
-svip = [
+[
     {
-        account:11 ,
-        password:22
+        "account":11 ,
+        "password":22
     },
     {
-        account:333 ,
-        password:444
+        "account":333 ,
+        "password":444
     },
     {
-        account: 555,
-        password:666
+        "account": 555,
+        "password":666
     }
-
-
 
 ]
