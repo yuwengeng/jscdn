@@ -15,7 +15,7 @@
 2. 或者直接@master(或者其他分支名称)！
 
 示例：
-
+https://yuwengeng.github.io/jscdn/mybks.html
 https://cdn.jsdelivr.net/gh/yuwengeng/jscdn@latest/pic.png
 
 https://cdn.jsdelivr.net/gh/yuwengeng/jscdn/pic.png
