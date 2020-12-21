@@ -1,0 +1,8 @@
+- 建一个store文件夹， index.js / reducer.js / actionCreator.js
+- 安装redux / react-redux / redux-thunk
+- store/index.js  ->  store
+- reducer.js  ->  defaultState / reducer
+- actionCreator.js  ->  一个同步，一个异步
+- index.js   ->   react-redux <Provider store={store}>
+- store/index.js  ->  redux-thunk
+- 组件  react-redux -> connect(fn1, fn2)(组件)    

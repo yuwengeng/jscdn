@@ -2,15 +2,18 @@
 	http://tool.liumingye.cn/music     
 	{ Good Boy  美丽的神话； 异类； Take Me To Your Heart  最自由的笑； 河流；BANG BANG BANG (뱅뱅뱅)  星月神话； }
 
--[一个科普视频网站，内容不多但质量还可以](https://www.kenzhishi.com)
+- [一个科普视频网站，内容不多但质量还可以](https://www.kenzhishi.com)
 
--[进入这个网站后点你想练的肌肉，会出现针对性的健身方法](https://musclewiki.org)
+- [进入这个网站后点你想练的肌肉，会出现针对性的健身方法](https://musclewiki.org)
 
-
-
-
+- [Chrome extension source viewer](https://chrome.google.com/webstore/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin/related)
 
 
+https://www.hostloc.com/thread-595549-1-1.html[蓝光]
+
+- (https://lanzoux.com/i3YhWhpv4li)[sublime]
+
+- [油管4K Video Downloader 已激活便携版](http://qianfangzy.com/52113.html)
 
 
 

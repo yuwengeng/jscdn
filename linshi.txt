@@ -1,0 +1,293 @@
+vscode :500Mb
+https://cmd.im/5het
+
+渡一11期线上付费学员资料https://pan.baidu.com/s/1c9XRX
+Web前端资料https://pan.baidu.com/s/1bWa0Z#list/path=%2F&parentPath=%2Fsharelink673606143-943283172865154
+大学生常用软件、软件教程及干货资料（持续更新）https://docs.qq.com/sheet/DUm1Ba2tZa0NuUFZn?tab=tpcmj1
+
+
+win+ tab 虚拟桌面模式  
+mstsc(迷失天使城)
+
+邮箱SMTP: lhvxqcikilsodjci
+195UcAcSB7vib4jbpyoViXJqRiwEjSa4b
+source: 1kwn6N3toVNuVIU31Udolg9b9nD_1R74N
+
+蚂蚁加速器v2.4.3破解版
+https://sexs.lanzous.com/iyQVbfnm5qb
+
+ 蜜蜂加速器 - 安装就是永久vip
+https://ywg.lanzous.com/iePBXfrsz4j
+
+coding网站: 账号:18831909627  
+hexo-action-token: 7b9539eaeec2463612c1c9869fb774f66228f479
+
+Debian10使用rclone挂载Google Drive 网盘(https://www.uud.me/qiwenzalun/rcloen-gd.html)
+)7yY&Qdn2_xGk?U
+
+anyone：  block-outside-dns
+us7090 => ethornely@gmail.com   :   hurgleburgle1       Expiration = 2021-12-13 02:05:53
+uk-4140  => sammdc90@hotmail.com     encrypted
+uk-4139 => johannaabbott@hotmail.co.uk  :   Naoniqua2      | Expiration = 2023-03-21 15:31:09
+
+安装：34开头ip可看奈飞
+sudo -i
+bash <(curl -s -L https://git.io/v2ray.sh)
+
+ V2Ray 传输协议 = TCP
+ V2Ray 端口 = 6666
+ Shadowsocks 端口 = 444
+ Shadowsocks 密码 = ywg130125
+ Shadowsocks 加密协议 = aes-256-cfb
+
+v2ray全局命令
+安装BBR加速
+---------- V2Ray 配置信息 -------------
+ 地址 (Address) = 34.92.244.5
+ 端口 (Port) = 6666
+ 用户ID (User ID / UUID) = b7b9705c-073f-437e-887e-b98e9e77b669
+ 额外ID (Alter Id) = 233
+ 传输协议 (Network) = tcp
+ 伪装类型 (header type) = none
+---------- END -------------
+V2Ray 客户端使用教程: https://233v2.com/post/4/
+提示: 输入 v2ray url 可生成 vmess URL 链接 / 输入 v2ray qr 可生成二维码链接
+免被墙..推荐使用JMS: https://getjms.com
+---------- Shadowsocks 配置信息 -------------
+ 服务器地址 = 34.92.244.5
+ 服务器端口 = 444
+ 密码 = ywg130125
+ 加密协议 = aes-256-cfb
+ SS 链接 = ss://YWVzLTI1Ni1jZmI6eXdnMTMwMTI1QDM0LjkyLjI0NC41OjQ0NA==#233v2.com_ss_34.92.244.5
+ 备注: Shadowsocks Win 4.0.6 客户端可能无法识别该 SS 链接
+提示: 输入 v2ray ssqr 可生成 Shadowsocks 二维码链接
+免被墙..推荐使用JMS: https://getjms.com
+
+接口4   关键词6位以上  147 258 369     手机号158...
+ 优先贵的
+
+
+
+{
+  "data": [{
+      "title": "百度",
+      "url": `https://www.baidu.com/s?wd=$\{query\} -广告 -推广`,
+      "type": "all"
+    }, {
+      "title": "秘迹",
+      "url": `https://m.mijisou.com/?q=$\{query\}&category_general=on&time_range=&language=zh-CN&pageno=1`,
+      "type": "all"
+    }, {
+      "title": "Searx",
+      "url": `https://wiby.org/?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "谷歌",
+      "url": `https://google.ywg.workers.dev/search?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "Google2",
+      "url": `https://www.sanzhima.com/search?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "多吉",
+      "url": `https://www.dogedoge.com/results?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "360",
+      "url": `https://www.so.com/s?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "Yandex",
+      "url": `https://yandex.com/search/?text=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "搜狗",
+      "url": `https://www.sogou.com/web?query=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "必应",
+      "url": `http://cn.bing.com/search?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "Magi",
+      "url": `https://magi.com/search?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "微信",
+      "url": `http://weixin.sogou.com/weixin?query=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "知乎",
+      "url": `https://www.zhihu.com/search?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "豆瓣",
+      "url": `https://www.douban.com/search?q=$\{query\}`,
+      "type": "all"
+    }, {
+      "title": "贴吧",
+      "url": `http://zhannei.baidu.com/cse/site?q=$\{query\}&click=1&cc=tieba.baidu.com&s=&nsid=`,
+      "type": "all"
+    }, {
+      "title": "大力盘",
+      "url": `https://www.dalipan.com/search?keyword=$\{query\}&time=3`,
+      "type": "pans"
+    }, {
+      "title": "飞飞盘",
+      "url": `https://www.feifeipan.com/search?keyword=$\{query\}`,
+      "type": "pans"
+    },
+    {
+      "title": "搜云",
+      "url": `https://www.wosouyun.com/wd/$\{query\}`,
+      "type": "pans"
+    },
+    {
+      "title": "天天搜",
+      "url": `http://www.daysou.com/s?q=$\{query\}&start=0&isget=1&tp=all&cl=0&line=3`,
+      "type": "pans"
+    },
+    {
+      "title": "58wp",
+      "url": `https://m.58wangpan.com/so?order=feed_time&feed_time=0&keyword=$\{query\}`,
+      "type": "pans"
+    },
+    {
+      "title": "fastsoso",
+      "url": `https://www.fastsoso.cn/search?k=$\{query\}&s=1&t=-1`,
+      "type": "pans"
+    },
+    {
+      "title": "猪猪盘",
+      "url": `http://www.zhuzhupan.com/search?query=$\{query\}`,
+      "type": "pans"
+    },
+    {
+      "title": "酷搜",
+      "url": `https://www.kolsou.com/search?q=$\{query\}`,
+      "type": "pans"
+    },
+    {
+      "title": "B站搜",
+      "url": `https://search.bilibili.com/all?keyword=$\{query\}`,
+      "type": "pans"
+    },
+    {
+      "title": "热榜搜",
+      "url": `https://tophub.today/search?q=$\{query\}`,
+      "type": "pans"
+    },
+    {
+      "title": "谷歌云",
+      "url": `https://gezhong.vip/?q=$\{query\}&gte=1`,
+      "type": "pans"
+    },
+    {
+      "title": "书签搜索",
+      "url": `https://www.bookmarkearth.com/s/search?q=$\{query\}`,
+      "type": "jike"
+    },
+    {
+      "title": "极客搜索",
+      "url": `https://s.geekbang.org/search/c=0/k=$\{query\}/t=`,
+      "type": "jike"
+    },
+    {
+      "title": "开发者头条",
+      "url": `https://toutiao.io/search?q=$\{query\}`,
+      "type": "jike"
+    },
+    {
+      "title": "阿里云",
+      "url": `https://developer.aliyun.com/search?q=$\{query\}`,
+      "type": "jike"
+    },
+    {
+      "title": "腾讯云",
+      "url": `https://cloud.tencent.com/developer/search/article-$\{query\}`,
+      "type": "jike"
+    },
+    {
+      "title": "Github",
+      "url": `https://github.com/search?q=$\{query\}`,
+      "type": "jike"
+    },
+    {
+      "title": "鱼塘搜",
+      "url": `https://mo.fish/main/search/$\{query\}`,
+      "type": "jike"
+    },
+    {
+      "title": "V2",
+      "url": `https://google.ywg.workers.dev/search?q=site:v2ex.com/t $\{query\}`,
+      "type": "jike"
+    },
+    {
+      "title": "神马",
+      "url": `https://yz.m.sm.cn/s?q=$\{query\}`,
+      "type": "life"
+    },
+    {
+      "title": "头条",
+      "url": `https://m.toutiao.com/search?keyword=$\{query\}`,
+      "type": "life"
+    },
+    {
+      "title": "微博",
+      "url": `http://s.weibo.com/weibo/$\{query\}`,
+      "type": "life"
+    },
+    {
+      "title": "京东",
+      "url": `http://search.jd.com/Search?enc=utf-8&keyword=$\{query\}`,
+      "type": "life"
+    },
+    {
+      "title": "值得买",
+      "url": `https://search.smzdm.com/?c=home&s=$\{query\}&v=b`,
+      "type": "life"
+    },
+    {
+      "title": "种子吧",
+      "url": `http://zhongzi8.xyz/search?wd=$\{query\}`,
+      "type": "bt"
+    },
+    {
+      "title": "超人搜",
+      "url": `https://www.ichaoren.xyz/search.html?name=$\\{query\}`,
+      "type": "bt"
+    },
+    {
+      "title": "磁力蚂蚁",
+      "url": `http://m.eclmy.space/search/$\{query\\}.htm`,
+      "type": "bt"
+    },
+    {
+      "title": "index软件",
+      "url": `intext:$\{query\} (apk|exe|iso|rar|tar|zip)     -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)    -inurl:(index_of|listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis)    intitle:"index.of./"`,
+      "type": "index"
+    },
+    {
+      "title": "index视频",
+      "url": `intext:$\{query\} (avi|mkv|mov|mp4|mpg|wmv)     -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)    -inurl:(index_of|listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis)    intitle:"index.of./"`,
+      "type": "index"
+    },
+    {
+      "title": "indexeBook",
+      "url": `intext:$\{query\} (CBZ|CBR|CHM|DOC|DOCX|EPUB|MOBI|ODT|PDF|RTF|txt)     -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)    -inurl:(index_of|listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis)    intitle:"index.of./"`,
+      "type": "index"
+    },
+    {
+      "title": "index压缩包",
+      "url": `intext:$\{query\} (apk|exe|iso|rar|tar|zip|7z)     -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)    -inurl:(index_of|listen77|mp3raid|mp3toss|mp3drug|index_of|wallywashis)    intitle:"index.of./"`,
+      "type": "index"
+    },
+    {
+      "title": "酷安",
+      "url": `https://www.google.com/search?newwindow=1&ei=jwyhX-HPDsGbmAXmkJvgBQ&q=site:coolapk.com $\{query\}`,
+      "type": "index"
+    }
+  ]
+
+}
